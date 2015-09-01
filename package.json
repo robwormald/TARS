@@ -1,0 +1,19 @@
+{
+  "name": "tars",
+  "version": "1.0.0",
+  "description": "Totally Awesome Robot for Stuff (TARS)",
+  "main": "tars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robwormald/TARS.git"
+  },
+  "author": "Rob Wormald <robwormald@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robwormald/TARS/issues"
+  },
+  "homepage": "https://github.com/robwormald/TARS#readme"
+}
